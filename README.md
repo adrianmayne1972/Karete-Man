@@ -1,2 +1,1 @@
-# Karete-Man
-This Karare Man is new to Github.
+Hello i'm Adrian, I'm new to github,
